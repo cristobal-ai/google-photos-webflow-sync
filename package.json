@@ -2,6 +2,7 @@
   "name": "google-photos-webflow-sync",
   "version": "1.0.0",
   "description": "Sync Google Photos albums to Webflow CMS collections",
+  "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
